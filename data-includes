@@ -1,7 +1,0 @@
-echo "# Exp1-Role-Filler" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/zesp12/Exp1-Role-Filler.git
-git push -u origin main
